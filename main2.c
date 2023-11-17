@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("%d",10); //10円見つけた
+    printf("%d+%d=%d",1000,2000,3000); 
     return 0;
 }
